@@ -1,4 +1,4 @@
-# Selenium EventFiring Demo
+# Selenium EventFiring Demo 
  
 ## Project Description
 This project demonstrates the use of Selenium's `EventFiringDecorator` and `WebDriverListener` to add custom event-handling functionality to browser automation. It is a Maven-based Java project that showcases how to intercept and log actions such as clicking elements on a webpage.
