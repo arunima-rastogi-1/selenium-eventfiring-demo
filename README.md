@@ -8,7 +8,7 @@ This project demonstrates the use of Selenium's `EventFiringDecorator` and `WebD
 - Demonstrates the use of Selenium's `EventFiringDecorator` for enhanced event handling.
 - Extracts and prints `href` attributes from anchor tags on a webpage.
 - Includes a robust error handling mechanism to ensure browser cleanup.
-
+ 
 ## Technologies Used
 - **Java** (JDK 17 or higher recommended)
 - **Selenium WebDriver** (Version compatible with your ChromeDriver)
